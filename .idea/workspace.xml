@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5511ae-f1df-4e9a-befb-53237d396199" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -329,12 +330,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523257382844</updated>
-      <workItem from="1523257384160" duration="34131000" />
+      <workItem from="1523257384160" duration="34208000" />
     </task>
+    <task id="LOCAL-00001" summary="commit test">
+      <created>1525396967882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525396967882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34131000" />
+    <option name="totallyTimeSpent" value="34208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="507" y="23" width="933" height="873" extended-state="0" />
@@ -368,6 +377,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
