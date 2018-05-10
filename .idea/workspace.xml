@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5511ae-f1df-4e9a-befb-53237d396199" name="Default" comment="commit test">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="ee5511ae-f1df-4e9a-befb-53237d396199" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -351,7 +350,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523257382844</updated>
-      <workItem from="1523257384160" duration="40088000" />
+      <workItem from="1523257384160" duration="40108000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1525396967882</created>
@@ -374,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525912401145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit ignore">
+      <created>1525941598909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525941598909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40088000" />
+    <option name="totallyTimeSpent" value="40108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,7 +457,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit test" />
     <MESSAGE value="modify readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify readme" />
+    <MESSAGE value="commit ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
